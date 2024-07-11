@@ -1,24 +1,41 @@
-Mod **Automobility** trong Minecraft là một mod bổ sung các phương tiện di chuyển trên mặt đất, mang đến khả năng chế tạo và sử dụng các loại xe khác nhau trong trò chơi. Dưới đây là một số đặc điểm nổi bật của mod Automobility:
+# Automobility Mod
 
-1. **Các loại phương tiện**:
-   - Mod này cung cấp nhiều loại xe từ ô tô, xe tải, đến xe máy, mỗi loại có các đặc điểm và công dụng riêng biệt.
+[![Discord Banner 2](https://discord.com/api/guilds/1097598643931992155/widget.png?style=banner2)](https://discord.gg/scv2zKPx3g)
 
-2. **Chế tạo và nâng cấp**:
-   - Người chơi có thể chế tạo các phương tiện từ các nguyên liệu khác nhau và nâng cấp chúng để cải thiện hiệu suất, tốc độ, và khả năng chịu đựng.
+## Giới thiệu
 
-3. **Cơ chế lái xe**:
-   - Mod bổ sung cơ chế lái xe thực tế, giúp người chơi dễ dàng điều khiển phương tiện trên các loại địa hình khác nhau.
+Automobility là một mod trong Minecraft mang đến cho người chơi khả năng tạo ra và sử dụng các phương tiện giao thông như ô tô, giúp di chuyển nhanh chóng và tiện lợi hơn trong thế giới Minecraft. Mod này không chỉ cung cấp các loại xe cơ bản mà còn cho phép bạn tùy chỉnh và nâng cấp các phương tiện của mình với nhiều tính năng đặc biệt.
 
-4. **Nhiên liệu và bảo dưỡng**:
-   - Các phương tiện cần nhiên liệu để hoạt động và có thể yêu cầu bảo dưỡng định kỳ để duy trì hiệu suất tốt nhất.
+### Tính năng chính
 
-5. **Tương tác với môi trường**:
-   - Phương tiện có thể tương tác với môi trường xung quanh, chẳng hạn như chạy trên đường, vượt qua địa hình khó khăn, và thậm chí tham gia vào các hoạt động khác nhau như đua xe.
+- **Đa dạng phương tiện:** Từ xe ô tô cơ bản đến xe tải và xe đua, Automobility cung cấp nhiều tùy chọn để phù hợp với mọi nhu cầu di chuyển.
+- **Tùy chỉnh và nâng cấp:** Các phương tiện có thể được nâng cấp với nhiều tính năng đặc biệt như tăng tốc độ, tăng khả năng chứa đồ, và nhiều hơn nữa.
+- **Giao diện thân thiện:** Giao diện người dùng dễ sử dụng và trực quan, giúp bạn dễ dàng quản lý và tùy chỉnh các phương tiện của mình.
+- **Tích hợp mod:** Tương thích tốt với nhiều mod khác, giúp mở rộng khả năng và tính năng của các phương tiện.
 
-6. **Tích hợp với các mod khác**:
-   - Automobility có thể tích hợp tốt với nhiều mod khác, cho phép người chơi tạo ra các hệ thống giao thông phức tạp và mở rộng khả năng sáng tạo của họ.
+## Hướng dẫn cài đặt
 
-7. **Yếu tố sinh tồn**:
-   - Mod có thể bổ sung các yếu tố sinh tồn như việc tìm kiếm và sử dụng tài nguyên để duy trì và vận hành các phương tiện, làm cho trò chơi trở nên thú vị và thử thách hơn.
+### Cài đặt mod Automobility và sử dụng Việt hóa:
 
-Mod Automobility rất hữu ích cho những ai yêu thích việc khám phá và di chuyển trên mặt đất trong Minecraft, mang lại trải nghiệm mới mẻ và đa dạng cho trò chơi.
+1. **Cài đặt công cụ modding Minecraft:**
+   - Tải và cài đặt [Forge](https://files.minecraftforge.net/) hoặc [Fabric](https://fabricmc.net/use/installer/).
+
+2. **Tải và cài đặt Automobility Mod:**
+   - Tải mod Automobility từ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/automobility/files).
+   - Sao chép file `.jar` của mod vào thư mục `mods` trong Minecraft của bạn.
+
+3. **Tải và cài đặt Automobility Việt Hóa:**
+   - Tải **Resource Pack Việt hóa** cho Automobility từ [Github](https://github.com/dinhluyen93/Mod-Automobility-VietHoa/releases).
+   - Mở **Minecraft**, vào mục **Options** (Cài đặt) -> **Resource Packs** (Gói tài nguyên).
+   - Chọn **Open Resource Packs Folder** (Mở thư mục gói).
+   - Đưa file `.zip` của Automobility Việt hóa vào thư mục này.
+
+4. **Kích hoạt Resource Pack:**
+   - Quay lại Minecraft và chọn Resource Pack bạn vừa thêm vào để kích hoạt.
+   - Đảm bảo Resource Pack việt hóa đã nằm trên cùng trong danh sách Resource Packs để sử dụng các tệp ngôn ngữ việt hóa.
+
+5. **Khởi động lại Minecraft:**
+   - Khởi động lại Minecraft để áp dụng các thay đổi và bắt đầu sử dụng Automobility với giao diện việt hóa.
+
+## Đóng góp
+Nếu bạn gặp vấn đề khi sử dụng bản dịch mod tiếng Việt hoặc có đề xuất cải tiến, vui lòng tạo [issues](https://github.com/dinhluyen93/Mod-Automobility-VietHoa/issues) hoặc [pull requests](https://github.com/dinhluyen93/Mod-Automobility-VietHoa/pulls) trên Github.
